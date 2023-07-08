@@ -6,7 +6,7 @@ I'm currently learning <span style="color:lightblue">React</span>
 
 Connect with me : 
 
- [![Instagram Follow](https://img.shields.io/badge/Nikhil_vashisht-222222?style=for-the-badge&logo=Instagram)](https://www.instagram.com/nikhil_vashisht/) [![Twitter Follow](https://img.shields.io/badge/chillipaneerdry-222222?style=for-the-badge&logo=Twitter)](https://twitter.com/chillipaneerdry/) 
+ [![Instagram Follow](https://img.shields.io/badge/Nikhil_vashisht-222222?style=for-the-badge&logo=Instagram)](https://www.instagram.com/nikhil_vashisht/) [!
 
 ## Languages and Tools:
  
