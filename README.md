@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hey there 👋
 
 ### I'm an ECE undergrad who has a keen interest in development. I love learning about new technologies and building stuff. 
 
