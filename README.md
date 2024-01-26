@@ -1,6 +1,6 @@
 # Hey there 👋
 
-### I am a final year student @ NSUT, Delhi. I am into backend development, having experience with Django, Node.js, Express.js and databases like MySQL and SQLITE. I also have experience with frontend frameworks such as React.js and Flutter. 
+### I am a final year student @ NSUT, Delhi. I am into backend development, having experience with Django, Node.js, Express.js and databases like MongoDB and SQLITE. I also have experience with frontend frameworks such as React.js and Flutter. 
 
 Connect with me : 
 
