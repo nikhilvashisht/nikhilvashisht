@@ -1,6 +1,6 @@
 # Hey there 👋
 
-### I'm an ECE undergrad who has a keen interest in development. I love learning about new technologies and building stuff. 
+### I am a final year student @ NSUT, Delhi. I am into backend development, having experience with Django, Node.js, Express.js and databases like MySQL and SQLITE. I also have experience with frontend frameworks such as React.js and Flutter. 
 
 I'm currently learning <span style="color:lightblue">React</span>
 
