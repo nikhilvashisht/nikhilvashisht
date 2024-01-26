@@ -17,6 +17,8 @@ Connect with me :
 <img   width="35px" align="left" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img width="35px" align="left" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
  <img width="35px" align="left" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg" />
+ <img width="35px" align="left" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+ <img width="35px" align="left" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
           
 
           
